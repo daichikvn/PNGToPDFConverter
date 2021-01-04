@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+.git
+
+models/__pycache__
+Pipfile.lock
